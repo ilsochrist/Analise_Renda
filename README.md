@@ -13,7 +13,7 @@ Rendimento mensal do trabalho principal para pessoas de 10 anos ou mais de idade
 Idade
 Idade do morador na data de referência em anos.
 
-Altura (elaboração própria)
+Altura (elaboração própria).
 Altura do morador em metros.
 
 ## **O que você pode fazer com esses dados**
