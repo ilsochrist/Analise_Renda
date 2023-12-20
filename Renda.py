@@ -10,7 +10,7 @@ matplotlib.rcParams['figure.figsize'] = (9, 5)
 matplotlib.rcParams['figure.facecolor'] = '#00000000'
 
 #Carregando os dados
-df = pd.read_csv('C:/ProjetosNovos/Renda/dados.csv').
+df = pd.read_csv('C:/ProjetosNovos/Renda/dados.csv')
 print(df.describe())
 
 
